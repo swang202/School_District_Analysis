@@ -12,7 +12,7 @@ Analysis was conducted using python (pandas). Tables was presented for each of t
 - School performance based on budge per student, school size, and school type
 
 ## Results:
-####The top five schools with the **worst** performaces are five *Charter* schools:
+#### The top five schools with the **worst** performaces are five *Charter* schools:
 
 - Cabrera High School
 - Thomas High School
@@ -20,7 +20,7 @@ Analysis was conducted using python (pandas). Tables was presented for each of t
 - Wilson High School
 - Pena High School
 
-####The top five schools with the **worst** performaces are five *District* schools: 
+#### The top five schools with the **worst** performaces are five *District* schools: 
 
 - Rodriguez High School
 - Figueroa High School
@@ -28,16 +28,16 @@ Analysis was conducted using python (pandas). Tables was presented for each of t
 - Hernandez High School
 - Johnson High School
 
-####School performance by school budgets per student:
+#### School performance by school budgets per student:
 
 ![This is an image](https://github.com/swang202/School_District_Analysis/blob/main/Results/bySpending.png?raw=true)
 
-####School performance by school sizes:
+#### School performance by school sizes:
 
 ![This is an image](https://github.com/swang202/School_District_Analysis/blob/main/Results/bySize_math.png?raw=true)
 
 
-####School performance by school types:
+#### School performance by school types:
 
 ![This is an image](https://github.com/swang202/School_District_Analysis/blob/main/Results/byType_math.png?raw=true)
 
